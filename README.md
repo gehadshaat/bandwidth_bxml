@@ -3,6 +3,10 @@ Bandwidth BXML Generator for Python
 
 Pure python implmenetation of Bandwidth BXML generator that works without needing to install lxml. This library works on AWS Lambda without needing to compile lxml.
 
+# installation
+```
+pip install bandwidth_bxml
+```
 
 # usage
 ```python
